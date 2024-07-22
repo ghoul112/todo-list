@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+.header-app{
+  display: flex;
+  justify-content: center;
+  font-family:"Roboto Slab";
+  background-color: #A333FF;
+  color: white;
+  height: 200px;
+  align-items: center;
+
+
+}
+.todo_item{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  padding: 1.1em;
+  
+}
+.todo-list{
+  width: 70%;
+  margin: 0 auto;
+}
+.add-task{
+  width: 100%;
+}
